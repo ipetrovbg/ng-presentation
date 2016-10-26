@@ -1,10 +1,14 @@
 [
     "index.md",
     [
-        "what-is-angularjs.md",
-        "databinding-out-of-the-box.md"
+        "what-is-angularjs.md"
     ],
-    "application-structure.md",
+    [
+        "what-give-us-angularjs.md",
+        "databinding-out-of-the-box.md",
+        "what-is-databinding.md",
+        "databinding-example.md"
+    ],
     [
         "controller.md",
         "controller-definition.md",
